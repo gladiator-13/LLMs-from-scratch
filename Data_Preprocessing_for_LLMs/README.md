@@ -12,6 +12,7 @@ It includes:
 ---
 
 ## 📂 Folder Structure
+```
 
 Data_Preprocessing/
 │
@@ -25,6 +26,7 @@ Data_Preprocessing/
 │
 └── README.md
 
+```
 ---
 
 ## 🔹 1. Tokenizer Module
@@ -78,6 +80,7 @@ Where:
 ---
 
 ## 🔁 Data Flow Overview
+```
 
 Raw Text
    ↓
@@ -91,6 +94,7 @@ Input Embeddings
    ↓
 Transformer
 
+```
 ---
 
 ## ⚙️ Design Decisions
